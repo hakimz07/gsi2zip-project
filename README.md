@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=27&duration=2800&color=00F7FF&center=true&vCenter=true&width=750&lines=gsi2zip-project+by+hakimz07;Convert+ANY+GSI+into+Flashable+ZIP;Supports+Windows%2C+WSL%2C+Linux;Project+Still+Early+Stage;Feedback+and+Contributions+Welcome!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=27&duration=2800&color=00F7FF&center=true&vCenter=true&width=750&lines=gsi2zip-project+by+KimTrixx07;Convert+ANY+GSI+into+Flashable+ZIP;Supports+Windows%2C+WSL%2C+Linux;Project+Still+Early+Stage;Feedback+and+Contributions+Welcome!" />
 </p>
 
 ---
