@@ -149,3 +149,45 @@ If this tool helps you, please ⭐ the repo ✨
     <img src="https://img.shields.io/github/stars/hakimz07/gsi2zip-project?style=social" width="150">
   </a>
 </p>
+
+
+<p align="center">
+  <img src="logo.png" width="140">
+</p>
+
+<p align="center">
+  <img src="banner.png">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=27&duration=2800&color=00F7FF&center=true&vCenter=true&width=750&lines=gsi2zip-project+by+KimTrixx07;Convert+ANY+GSI+into+Flashable+ZIP;Supports+Windows%2C+WSL%2C+Linux;Project+Still+Early+Stage;Feedback+and+Contributions+Welcome!" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/KimTrixx07/gsi2zip-project?style=for-the-badge&color=yellow">
+  <img src="https://img.shields.io/badge/Version-1.0.0-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Early%20Stage-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-3.9%2B-00d7ff?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Platforms-Windows%20%7C%20WSL%20%7C%20Linux-00ff88?style=for-the-badge">
+</p>
+
+---
+
+# ⚡ gsi2zip-project
+
+A universal, cross-platform conversion tool that transforms **ANY GSI** into a **flashable ZIP** for Android dynamic-partition devices.
+
+This project is still in **early stage** — I am still learning,  
+so **any feedback, suggestions, criticism, or pull requests are highly appreciated.**
+
+---
+
+## 🎬 Demo
+<p align="center">
+  <img src="demo.gif" width="600">
+</p>
+
+---
+
+## ✨ Features
+
