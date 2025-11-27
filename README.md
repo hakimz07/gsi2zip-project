@@ -41,7 +41,7 @@ so **any feedback, suggestions, criticism, or pull requests are highly appreciat
 ## ✨ Features
 
 ```
-✔ Convert RAW / SPARSE / XZ / GZ images     │
+| ✔ Convert RAW / SPARSE / XZ / GZ images     │
 │ ✔ Auto-detect GSI format                    │
 │ ✔ 3 modes: Windows Native, WSL, Linux       │
 │ ✔ RAW → SPARSE → DAT → BR transformation    │
