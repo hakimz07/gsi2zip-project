@@ -1,10 +1,11 @@
-<p align="center">
-  <img src="https://i.imgur.com/tA1ZL4C.png" width="140">
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/4iEQa6S.png">
-</p>
+:'######::::'######::'####::'#######::'########:'####:'########:::::'########::'########:::'#######::::::::'##:'########::'######::'########:
+'##... ##::'##... ##:. ##::'##.... ##:..... ##::. ##:: ##.... ##:::: ##.... ##: ##.... ##:'##.... ##::::::: ##: ##.....::'##... ##:... ##..::
+ ##:::..::: ##:::..::: ##::..::::: ##::::: ##:::: ##:: ##:::: ##:::: ##:::: ##: ##:::: ##: ##:::: ##::::::: ##: ##::::::: ##:::..::::: ##::::
+ ##::'####:. ######::: ##:::'#######::::: ##::::: ##:: ########::::: ########:: ########:: ##:::: ##::::::: ##: ######::: ##:::::::::: ##::::
+ ##::: ##:::..... ##:: ##::'##:::::::::: ##:::::: ##:: ##.....:::::: ##.....::: ##.. ##::: ##:::: ##:'##::: ##: ##...:::: ##:::::::::: ##::::
+ ##::: ##::'##::: ##:: ##:: ##::::::::: ##::::::: ##:: ##::::::::::: ##:::::::: ##::. ##:: ##:::: ##: ##::: ##: ##::::::: ##::: ##:::: ##::::
+. ######:::. ######::'####: #########: ########:'####: ##::::::::::: ##:::::::: ##:::. ##:. #######::. ######:: ########:. ######::::: ##::::
+:......:::::......:::....::.........::........::....::..::::::::::::..:::::::::..:::::..:::.......::::......:::........:::......::::::..:::::
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=27&duration=2800&color=00F7FF&center=true&vCenter=true&width=750&lines=gsi2zip-project+by+KimTrixx07;Convert+ANY+GSI+into+Flashable+ZIP;Supports+Windows%2C+WSL%2C+Linux;Project+Still+Early+Stage;Feedback+and+Contributions+Welcome!" />
@@ -28,13 +29,6 @@ A universal, cross-platform conversion tool that transforms **ANY GSI** into a *
 
 This project is still in **early stage** — I am still learning,  
 so **any feedback, suggestions, criticism, or pull requests are highly appreciated.**
-
----
-
-## 🎬 Demo (Conversion Preview)
-<p align="center">
-  <img src="https://i.imgur.com/4V3V2RC.gif" width="600">
-</p>
 
 ---
 
