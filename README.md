@@ -41,8 +41,7 @@ so **any feedback, suggestions, criticism, or pull requests are highly appreciat
 ## ✨ Features
 
 ```
-╭─────────────────────────────────────────────╮
-│ ✔ Convert RAW / SPARSE / XZ / GZ images     │
+✔ Convert RAW / SPARSE / XZ / GZ images     │
 │ ✔ Auto-detect GSI format                    │
 │ ✔ 3 modes: Windows Native, WSL, Linux       │
 │ ✔ RAW → SPARSE → DAT → BR transformation    │
@@ -50,7 +49,6 @@ so **any feedback, suggestions, criticism, or pull requests are highly appreciat
 │ ✔ Auto patch Python3.13 img2sdat issues     │
 │ ✔ Prevents 10GB ZIP bug                     │
 │ ✔ Cleans all leftover files automatically   │
-╰─────────────────────────────────────────────╯
 ```
 
 ---
