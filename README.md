@@ -57,6 +57,7 @@ Currently this script only working fine in linux environtment...
 so if u dont have linux on u machine..u need to figure it out
 unless...you like to thinker around in windows...
 
+Good News...We are currently working for the windows app
 ## 📦 Installation
 
 ### Linux / WSL
