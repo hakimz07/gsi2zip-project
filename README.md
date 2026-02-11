@@ -39,8 +39,6 @@ so **any feedback, suggestions, criticism, or pull requests are highly appreciat
 │ ✔ Cleans all leftover files automatically   │
 ```
 
----
-
 ## 🖥 Platform Support
 
 | Platform        | Status | Notes |
@@ -64,14 +62,14 @@ Good News...We are currently working for the windows app
 ```bash
 sudo apt update
 sudo apt install git android-sdk-libsparse-utils brotli python3-pip
-git clone 
+git clone https://github.com/hakimz07/gsi2zip-project.git
 ```
 ---
 
 ## 🚀 Usage
 
 ### Auto Mode (Recommended)
-```bash
+```
 python convert.py system.img
 ```
 
