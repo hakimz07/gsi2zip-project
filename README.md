@@ -63,7 +63,8 @@ Good News...We are currently working for the windows app
 ### Linux / WSL
 ```bash
 sudo apt update
-sudo apt install android-sdk-libsparse-utils brotli python3-pip
+sudo apt install git android-sdk-libsparse-utils brotli python3-pip
+git clone 
 ```
 ---
 
