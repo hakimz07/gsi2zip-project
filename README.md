@@ -1,13 +1,4 @@
-#________  ________  ___    _______  ________  ___  ________        ________  ________  ________        ___  _______   ________ _________   
-#|\   ____\|\   ____\|\  \  /  ___  \|\_____  \|\  \|\   __  \      |\   __  \|\   __  \|\   __  \      |\  \|\  ___ \ |\   ____\\___   ___\ 
-#\ \  \___|\ \  \___|\ \  \/__/|_/  /|\|___/  /\ \  \ \  \|\  \     \ \  \|\  \ \  \|\  \ \  \|\  \     \ \  \ \   __/|\ \  \___\|___ \  \_| 
-# \ \  \  __\ \_____  \ \  \__|//  / /    /  / /\ \  \ \   ____\     \ \   ____\ \   _  _\ \  \\\  \  __ \ \  \ \  \_|/_\ \  \       \ \  \  
-#  \ \  \|\  \|____|\  \ \  \  /  /_/__  /  /_/__\ \  \ \  \___|      \ \  \___|\ \  \\  \\ \  \\\  \|\  \\_\  \ \  \_|\ \ \  \____   \ \  \ 
-#   \ \_______\____\_\  \ \__\|\________\\________\ \__\ \__\          \ \__\    \ \__\\ _\\ \_______\ \________\ \_______\ \_______\  \ \__\
-#    \|_______|\_________\|__| \|_______|\|_______|\|__|\|__|           \|__|     \|__|\|__|\|_______|\|________|\|_______|\|_______|   \|__|
-#             \|_________|                                                                                                                   
-                                                                                                                                            
-                                                                                                                                            
+⚡ gsi2zip-project ⚡                                                                                                                                            
 
 
 <p align="center">
@@ -55,10 +46,16 @@ so **any feedback, suggestions, criticism, or pull requests are highly appreciat
 | Platform        | Status | Notes |
 |----------------|--------|-------|
 | **Linux**      | 🟢 Full | Native tools recommended |
-| **WSL (Ubuntu)** | 🟢 Best | Easiest & most stable |
-| **Windows Native** | 🟡 OK | Requires `.exe` simg tools |
+| **WSL (Ubuntu)** | 🟢 Best/Partially | Easiest & most stable |
+| **Windows Native** | 🟡 Unsupported Yet | Requires `.exe` simg tools |
 
 ---
+
+## Notice
+
+Currently this script only working fine in linux environtment...
+so if u dont have linux on u machine..u need to figure it out
+unless...you like to thinker around in windows...
 
 ## 📦 Installation
 
@@ -67,31 +64,17 @@ so **any feedback, suggestions, criticism, or pull requests are highly appreciat
 sudo apt update
 sudo apt install android-sdk-libsparse-utils brotli python3-pip
 ```
-
-### Windows Native
-Letak dalam folder `simg/`:
-```
-img2simg.exe
-simg2img.exe
-```
-
 ---
 
 ## 🚀 Usage
 
 ### Auto Mode (Recommended)
-```bash
+...bash
 python convert.py system.img
-```
 
-### Force Mode
-```bash
-python convert.py system.img --mode windows
-python convert.py system.img --mode wsl
-python3 convert.py system.img --mode linux
-```
 
----
+
+
 
 ## ⚠ Important Notes
 - Flash ZIP using **TWRP / OFOX / Custom Recovery**
@@ -103,17 +86,8 @@ python3 convert.py system.img --mode linux
 
 ## 🧰 Troubleshooting
 
-### Missing `system.img.raw`
-Install simg tools:
-```bash
-sudo apt install android-sdk-libsparse-utils
-```
-
 ### ZIP becomes 10GB
 This version automatically cleans raw images.
-
-### Python error: `imp module not found`
-Script auto-fixes img2sdat.
 
 ### WSL error: “command not found” (exit 127)
 Install tools inside WSL.
@@ -130,7 +104,7 @@ Install tools inside WSL.
 
 ## ❤️ Credits
 - Community GSI tools (inspiration)
-- Full rewrite & cross-platform system by **hakimz07**
+- Full rewrite & cross-platform system by **Kimtrixx**
 - Script logic & debugging improved with ChatGPT
 - Everyone who tests & contributes!
 
