@@ -69,12 +69,9 @@ sudo apt install android-sdk-libsparse-utils brotli python3-pip
 ## 🚀 Usage
 
 ### Auto Mode (Recommended)
-...bash
+```bash
 python convert.py system.img
-
-
-
-
+```
 
 ## ⚠ Important Notes
 - Flash ZIP using **TWRP / OFOX / Custom Recovery**
@@ -103,10 +100,10 @@ Install tools inside WSL.
 ---
 
 ## ❤️ Credits
-- Community GSI tools (inspiration)
+- Community GSI tools (inspiration) thanks to notmyst33d
 - Full rewrite & cross-platform system by **Kimtrixx**
-- Script logic & debugging improved with ChatGPT
-- Everyone who tests & contributes!
+- Script logic & debugging improved with A.I
+- Everyone Open to tests & contributes!
 
 ---
 
