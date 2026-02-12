@@ -17,7 +17,10 @@ async def async_communicate(loop, p):
 # ======== main converter ==========
 async def convert_gsi(gsi_file, arch="arm64"):
     loop = asyncio.get_running_loop()
-    gsi_dir = tempfile.mkdtemp(dir="/home/kimtrixx07/Desktop/gsi2zip/tmp")
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    base_tmp = os.path.join(script_dir, "tmp")
+    os.makedirs(base_tmp, exist_ok=True)
+    gsi_dir = tempfile.mkdtemp(dir=base_tmp)
 
     print("[+] Working directory:", gsi_dir)
     shutil.copy(gsi_file, f"{gsi_dir}/{os.path.basename(gsi_file)}")
